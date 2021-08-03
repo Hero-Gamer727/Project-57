@@ -1,0 +1,27 @@
+body{
+  background-image: linear-gradient(red, yellow);
+  text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+margin-top: 20px;
+border-radius: 50px;
+}
+
+
+h1{
+    font-size: 30px;
+}
+
+.line{
+    background-color: black;
+    width: 300px;
+    height: 10px;
+    margin-left:800px; ;
+}
+
+section{
+    text-align: center;
+}
