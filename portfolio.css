@@ -1,4 +1,4 @@
-#about,#MyInspiration{
+#about,#myWork,#contact{
     background-image: linear-gradient(red, yellow);
     text-align: center;
     padding-bottom: 300px;
@@ -6,7 +6,7 @@
   
   }
   
-  #favorite,#myWork{
+  #favorite,#MyInspiration{
       background-image: linear-gradient(blue, green);
     text-align: center;
     padding-top: 100px;
